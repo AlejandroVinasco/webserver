@@ -1,0 +1,13 @@
+{
+  "name" : "express-website-kuroe",
+  "version" : "0.0.1",
+  "description": "Servidor para Servicios Web",
+  "main": "server.js",
+  "scripts" : {
+    "start" : "node Server.js"
+  },
+  "dependencies" : {
+    "express" : "latest",
+	"lodash" : "latest"
+  }
+}

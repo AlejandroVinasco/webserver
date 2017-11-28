@@ -1,0 +1,14 @@
+[
+	{
+		"id": "1",
+		"name": "Banana",
+		"description": "Yellow fruit. Yummy! Eradev's favorite.",
+		"price": "$0.67/lb"
+	},
+	{
+		"id": "2",
+		"name": "Shark",
+		"description": "Really a banana. Susa is just stupid and can't make the difference.",
+		"price": "$0.67/lb"
+	}
+]
